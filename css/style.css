@@ -1,0 +1,141 @@
+span {
+    padding: 3%;
+}
+body {font-family: Arial, sans-serif;}
+
+#header {
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#header-box-left {
+    background-color: #bbbbbb;
+    padding: 1vh;
+    border-radius: 40px;
+}
+.logo {
+    width: 300px;
+    height: auto;
+    border-radius: 40px;
+}
+#header-box-right {
+    background-color: #bbbbbb;
+    padding: 3vh;
+}
+
+#announcement {
+    padding: 1%;
+}
+
+#flashy-ad {
+    background-color: #008099;
+    padding: 1vh;
+}
+
+#container {
+    display: flex;
+    justify-content: space-between;
+}
+.baner {
+    width: 1455px;
+    height: 400px;
+}
+#exhibition {
+    background-color: #bbbbbb;
+    padding: 18vh;
+    padding-bottom: 80vh;
+}
+
+#group-text {
+    display: flex;
+    flex-direction: column;
+}
+.bar-text-description {
+    background-color: #bbbbbb;
+    padding: 1%;
+}
+.description-p {
+    font-size: 30px;
+}
+.bar-text {
+    background-color: #bbbbbb;
+    padding: 1%;
+    padding-left: 120vh;
+}
+
+.space {
+    padding: 1%;
+}
+
+
+
+
+.teste2 {
+    padding: 2vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+#conteudo1 {
+    display: flex;
+}
+
+#box-right {
+    background-color: #bbbbbb;
+    padding: 1vh;
+}
+.key-img {
+    width: 300px;
+    height: 800px;
+}
+#adds {
+    background-color: #008099;
+    padding: 1vh;
+    border-radius: 40px;
+}
+.baner-lil {
+    border-radius: 40px;
+}
+#group-text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.group1 {
+    display: flex;
+    justify-content: space-between;
+}
+.produto {
+    background-color:chocolate;
+    padding: 1vh;
+}
+.img-perfil {
+    border-radius: 10000px;
+    width: 100px;
+    height: auto;
+}
+.img-perfil-kid {
+    border-radius: 10000px;
+    width: 100px;
+    height: 110px;
+}
+#group2 {
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+}
+.wrapper {
+    display: flex;
+}
+footer {
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+    background-color: #bbbbbb;
+    color: black;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
